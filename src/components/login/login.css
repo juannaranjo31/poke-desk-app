@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-login {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://assets.mwallpapers.com/photos/wallpapers/anime/pokemon-4k-android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4khd-wallpapers-desktop-background-android-iphone-1080p-4k-dn1gs.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.form-contain {
+    width: 40%;
+    height: 10%;
+    margin-bottom: 30rem;
+}
+
+.btn a {
+    text-decoration: none;
+    color: white;
+}
